@@ -3,11 +3,10 @@
 ### About me:
 - 🌱 I’m currently learning everything in ML & AI 🤣
 - 👯 I’m looking to collaborate with other developers
-- 🥅 2020 Goals: Sharpen my skills
+- 🥅 Pesonal Goals: Learning how to learn
 <br />
 
 ### Languages and Tools:
-
 <!-- Python -->
 [<img align="left" alt="Python" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][python]
 <!-- R -->
@@ -44,10 +43,9 @@
 
 ### Connect with me:
 [<img align="left" alt="quartermaine | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-
 <br />
 
+<img align="left" alt="quartermaine's Github Stats" src="https://github-readme-stats.vercel.app/api?username=quartermaine&show_icons=true&hide_border=true" />
 
 [linkedin]: https://www.linkedin.com/in/andreas-christopoulos-charitos-63382268/
 [python]: https://www.python.org/
