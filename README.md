@@ -1,4 +1,7 @@
 ## Wellcome to my repository! 👋
+<!-- img -->
+[<img align="left" height= "480" alt="ML" src="https://som.yale.edu/sites/default/files/event-image.jpg" />][img]
+<br />
 
 ### About me:
 - 🌱 I’m currently learning everything in ML & AI 🤣
@@ -47,6 +50,8 @@
 
 <img align="left" alt="quartermaine's Github Stats" src="https://github-readme-stats.vercel.app/api?username=quartermaine&show_icons=true&hide_border=true" />
 
+
+[img]: https://som.yale.edu/sites/default/files/event-image.jpg
 [linkedin]: https://www.linkedin.com/in/andreas-christopoulos-charitos-63382268/
 [python]: https://www.python.org/
 [R]: https://www.r-project.org/
