@@ -1,6 +1,6 @@
 ## Wellcome to my repository! 👋
 <!-- img -->
-[<img align="left" height= "480" alt="ML" src="https://som.yale.edu/sites/default/files/event-image.jpg" />][img]
+[<img align="center" height="480" alt="ML" src="https://som.yale.edu/sites/default/files/event-image.jpg" />][img]
 <br />
 
 ### About me:
