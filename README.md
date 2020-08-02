@@ -8,13 +8,6 @@
 - 👯 I’m looking to collaborate with other ML & AI enthousiasts!
 
 
-
-### Connect with me:
-
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://www.linkedin.com/in/andreas-christopoulos-charitos-63382268/" />][linkedin]
-
-<br />
-
 ### Languages and Tools:
 
 
