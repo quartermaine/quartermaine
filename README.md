@@ -7,6 +7,7 @@
 - 🌱 I’m currently learning everything in ML & AI 🤣
 - 👯 I’m looking to collaborate with other developers
 - 🥅 Personal Goals: Learning how to learn
+- ⚡ Fun: I have a joke about deep learning but I can't explain it. 
 <br />
 
 ### Languages and Tools:
