@@ -6,7 +6,7 @@
 ### About me:
 - 🌱 I’m currently learning everything in ML & AI 🤣
 - 👯 I’m looking to collaborate with other developers
-- 🥅 Pesonal Goals: Learning how to learn
+- 🥅 Personal Goals: Learning how to learn
 <br />
 
 ### Languages and Tools:
