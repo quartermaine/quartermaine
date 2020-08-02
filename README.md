@@ -1,12 +1,10 @@
-
 ### Wellcome to my repository! 👋
 
-<!--
-**quartermaine/quartermaine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
 ## About me:
-- 🌱 I’m currently sharpening my ML & AI skills  🤣
-- 👯 I’m looking to collaborate with other ML & AI enthousiasts!
+- 🌱 I’m currently learning everything in ML & AI 🤣
+- 👯 I’m looking to collaborate with other developers
+- 🥅 2020 Goals: Sharpen my skills
 
+### Connect with me:
 
+[<img align="left" alt="quartermaine | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][https://www.linkedin.com/in/andreas-christopoulos-charitos-63382268/]
