@@ -41,6 +41,8 @@
 [<img align="left" alt="H2o.ai" width="42px" src="https://raw.githubusercontent.com/h2oai/tutorials/master/.github/h2o-ai-logo-plain.png" />][h2o]
 <!-- Jupyter Notebook -->
 [<img align="left" alt="Jupyter Notebook" width="42px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png" />][Jupyter Notebook]
+<!-- Pytorch -->
+[<img align="left" alt="pytorch" width="42px" src="https://raw.githubusercontent.com/pytorch/pytorch/master/docs/source/_static/img/pytorch-logo-dark.png" />][pytorch]
 <br />
 <!-- laguage/skill -->
 <!-- language/skill -->
