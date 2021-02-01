@@ -35,14 +35,14 @@
 [<img align="left" alt="tensorflow" width="42px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" />][tensorflow]
 <!-- keras -->
 [<img align="left" alt="keras" width="42px" src="https://camo.githubusercontent.com/0d08dc4f9466d347e8d28a951ea51e3430c6f92c/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f6b657261732e696f2f696d672f6b657261732d6c6f676f2d323031382d6c617267652d313230302e706e67" />][keras]
+<!-- Pytorch -->
+[<img align="left" alt="pytorch" width="42px" src="https://avatars.githubusercontent.com/u/21003710?s=200&v=4" />][pytorch]
 <!-- scikit-learn -->
 [<img align="left" alt="scikit-learn" width="42px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png" />][scikit-learn]
 <!-- H2o -->
 [<img align="left" alt="H2o.ai" width="42px" src="https://raw.githubusercontent.com/h2oai/tutorials/master/.github/h2o-ai-logo-plain.png" />][h2o]
 <!-- Jupyter Notebook -->
 [<img align="left" alt="Jupyter Notebook" width="42px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png" />][Jupyter Notebook]
-<!-- Pytorch -->
-[<img align="left" alt="pytorch" width="42px" src="https://avatars.githubusercontent.com/u/21003710?s=200&v=4" />][pytorch]
 <br />
 <!-- laguage/skill -->
 <!-- language/skill -->
