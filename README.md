@@ -42,7 +42,7 @@
 <!-- Jupyter Notebook -->
 [<img align="left" alt="Jupyter Notebook" width="42px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png" />][Jupyter Notebook]
 <!-- Pytorch -->
-[<img align="left" alt="pytorch" width="42px" src="https://github.com/pytorch/pytorch/blob/master/docs/source/_static/img/pytorch-logo-dark.png" />][pytorch]
+[<img align="left" alt="pytorch" width="42px" src="https://avatars.githubusercontent.com/u/21003710?s=200&v=4" />][pytorch]
 <br />
 <!-- laguage/skill -->
 <!-- language/skill -->
@@ -75,6 +75,7 @@
 [scikit-learn]: https://scikit-learn.org/stable/
 [h2o]: https://training.h2o.ai/
 [Jupyter Notebook]: https://github.com/jupyter/notebook
+[pytorch]: https://pytorch.org/
 
 
 
