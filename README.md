@@ -1,5 +1,5 @@
 ## Wellcome to my repository! 👋
-![Output File 1](images/output_file_1.png)
+<img src="images/output_file_1.png" height="640px" width="640px">
 
 ### About me:
 - 🌱 I’m currently learning everything in ML & AI 
