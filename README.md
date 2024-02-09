@@ -1,7 +1,5 @@
 ## Wellcome to my repository! 👋
-<img src="![output_file_1](/images/output_file_1.png)
-" height="350px" width ="350px">
-
+![Output File 1](images/output_file_1.png)
 
 ### About me:
 - 🌱 I’m currently learning everything in ML & AI 
