@@ -1,5 +1,5 @@
 ## Wellcome to my repository! 👋
-<img src="![output_file_1](https://github.com/quartermaine/quartermaine/assets/24212117/2f8a37be-e6e1-4feb-99ae-5dfce3070205)
+<img src="![output_file_1](/images/output_file_1.png)
 " height="350px" width ="350px">
 
 
