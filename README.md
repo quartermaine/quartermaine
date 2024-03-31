@@ -13,7 +13,7 @@
 <!-- Python -->
 [<img align="left" alt="Python" width="48px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" />][python]
 <!-- R -->
-[<img align="left" alt="R" width="48px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" />][R]
+[<img align="left" alt="R" width="48px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" />][R]
 <!-- postgreSQL -->
 [<img align="left" alt="SQL" width="48px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" />][sql]
 <!-- MySQL -->
@@ -42,6 +42,8 @@
 <!-- [<img align="left" alt="H2o.ai" width="42px" src="https://raw.githubusercontent.com/h2oai/tutorials/master/.github/h2o-ai-logo-plain.png" />][h2o] -->
 <!-- Jupyter Notebook -->
 [<img align="left" alt="Jupyter Notebook" width="48px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" />][Jupyter Notebook]
+<!-- Streamlit -->
+[<img align="left" alt="Jupyter Notebook" width="48px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/streamlit/streamlit-plain-wordmark.svg" />][Streamlit]
 <br />
 <!-- laguage/skill -->
 <!-- language/skill -->
@@ -75,6 +77,7 @@
 <!-- [h2o]: https://training.h2o.ai/ -->
 [Jupyter Notebook]: https://github.com/jupyter/notebook
 [pytorch]: https://pytorch.org/
+[Streamlit]: https://streamlit.io/
 
 
 
