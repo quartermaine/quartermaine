@@ -56,6 +56,7 @@
 <!-- language/skill -->
 <br />
 <br />
+<br />
 
 ### Connect with me:
 [<img align="left" alt="quartermaine | LinkedIn" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" />][linkedin]
