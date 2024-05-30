@@ -44,6 +44,8 @@
 [<img align="left" alt="Jupyter Notebook" width="48px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" />][Jupyter Notebook]
 <!-- Streamlit -->
 [<img align="left" alt="Jupyter Notebook" width="48px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/streamlit/streamlit-plain-wordmark.svg" />][Streamlit]
+<!-- Langchain -->
+[<img align="left" alt="Jupyter Notebook" width="48px" src="https://camo.githubusercontent.com/43b7f4b2438d6edbe6aed1d7db93728d4dbe1bb6333c540baadb0084a04860d2/68747470733a2f2f63646e2e616e616c79746963737669646879612e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032332f30372f6c616e67636861696e332e706e67" />][Langchain]
 <br />
 <!-- laguage/skill -->
 <!-- language/skill -->
@@ -78,6 +80,7 @@
 [Jupyter Notebook]: https://github.com/jupyter/notebook
 [pytorch]: https://pytorch.org/
 [Streamlit]: https://streamlit.io/
+[Langchain]: https://www.langchain.com/
 
 
 
