@@ -58,8 +58,6 @@
 <br />
 <br />
 
-### Connect with me:
-[<img align="left" alt="quartermaine | LinkedIn" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" />][linkedin]
 <br />
 <br />
 <img align="left" alt="quartermaine's Github Stats" src="https://github-readme-stats.vercel.app/api?username=quartermaine&show_icons=true&hide_border=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
